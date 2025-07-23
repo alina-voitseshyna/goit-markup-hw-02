@@ -69,7 +69,7 @@ color: #fff;
 }
 
 .button {
-  ont-weight: 500;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
@@ -87,6 +87,20 @@ color: #fff;
 
 .button {
   cursor: pointer;
+}
+
+.benefits-titles {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e423e;
+}
+
+.benefits-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 .page-footer {
   background-color: #2e2f42;
